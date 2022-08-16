@@ -1,0 +1,7 @@
+.page-section { padding: 25px 0; }
+.swiper_wrapper { background-position: 50% 0px !important; }
+.parallax-repeat { background-repeat: repeat; padding: 50px 0 !important; }
+.portfolio-image { background-size: cover; background-position: center; }
+.dark .fancy-title h3 { background: none; }
+.text-bold { font-weight: bold; }
+.fb-like { width: 100px !important; margin: 0 auto; }
